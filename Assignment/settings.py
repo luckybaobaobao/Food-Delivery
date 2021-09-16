@@ -1,0 +1,6 @@
+GREEN_DELIVERY_DAYS = [5, 15, 25]
+EXTERNAL_ORDER_MINDAYS = 5
+
+NORMAL = 'normal'
+EXTERNAL = 'external'
+TEMPORARY = 'temorary'
